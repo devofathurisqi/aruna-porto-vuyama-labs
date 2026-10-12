@@ -1,0 +1,407 @@
+[
+  {
+    "port": 4311,
+    "route": "home",
+    "broken": [],
+    "content": 305,
+    "title": "Elegan di\nsetiap langkah.",
+    "viewport": 305,
+    "width": 320
+  },
+  {
+    "port": 4311,
+    "route": "produk",
+    "broken": [],
+    "content": 305,
+    "title": "Temukan pilihanmu.",
+    "viewport": 305,
+    "width": 320
+  },
+  {
+    "port": 4311,
+    "route": "produk/printed-viscose",
+    "broken": [],
+    "content": 305,
+    "title": "Pashmina Printed Viscose",
+    "viewport": 305,
+    "width": 320
+  },
+  {
+    "port": 4311,
+    "route": "keranjang",
+    "broken": [],
+    "content": 305,
+    "title": "Keranjang kamu.",
+    "viewport": 305,
+    "width": 320
+  },
+  {
+    "port": 4311,
+    "route": "checkout",
+    "broken": [],
+    "content": 305,
+    "title": "Lengkapi ceritamu.",
+    "viewport": 305,
+    "width": 320
+  },
+  {
+    "port": 4312,
+    "route": "home",
+    "broken": [],
+    "content": 305,
+    "title": "Temukan hijab favoritmu.",
+    "viewport": 305,
+    "width": 320
+  },
+  {
+    "port": 4312,
+    "route": "produk",
+    "broken": [],
+    "content": 305,
+    "title": "Temukan pilihanmu.",
+    "viewport": 305,
+    "width": 320
+  },
+  {
+    "port": 4312,
+    "route": "produk/printed-viscose",
+    "broken": [],
+    "content": 305,
+    "title": "Pashmina Printed Viscose",
+    "viewport": 305,
+    "width": 320
+  },
+  {
+    "port": 4312,
+    "route": "keranjang",
+    "broken": [],
+    "content": 305,
+    "title": "Keranjang kamu.",
+    "viewport": 305,
+    "width": 320
+  },
+  {
+    "port": 4312,
+    "route": "checkout",
+    "broken": [],
+    "content": 305,
+    "title": "Lengkapi ceritamu.",
+    "viewport": 305,
+    "width": 320
+  },
+  {
+    "port": 4313,
+    "route": "home",
+    "broken": [],
+    "content": 305,
+    "title": "Warna lembut,\npesona kamu.",
+    "viewport": 305,
+    "width": 320
+  },
+  {
+    "port": 4313,
+    "route": "produk",
+    "broken": [],
+    "content": 305,
+    "title": "Temukan pilihanmu.",
+    "viewport": 305,
+    "width": 320
+  },
+  {
+    "port": 4313,
+    "route": "produk/printed-viscose",
+    "broken": [],
+    "content": 305,
+    "title": "Pashmina Printed Viscose",
+    "viewport": 305,
+    "width": 320
+  },
+  {
+    "port": 4313,
+    "route": "keranjang",
+    "broken": [],
+    "content": 305,
+    "title": "Keranjang kamu.",
+    "viewport": 305,
+    "width": 320
+  },
+  {
+    "port": 4313,
+    "route": "checkout",
+    "broken": [],
+    "content": 305,
+    "title": "Lengkapi ceritamu.",
+    "viewport": 305,
+    "width": 320
+  },
+  {
+    "port": 4311,
+    "route": "home",
+    "broken": [],
+    "content": 753,
+    "title": "Elegan di\nsetiap langkah.",
+    "viewport": 753,
+    "width": 768
+  },
+  {
+    "port": 4311,
+    "route": "produk",
+    "broken": [],
+    "content": 753,
+    "title": "Temukan pilihanmu.",
+    "viewport": 753,
+    "width": 768
+  },
+  {
+    "port": 4311,
+    "route": "produk/printed-viscose",
+    "broken": [],
+    "content": 753,
+    "title": "Pashmina Printed Viscose",
+    "viewport": 753,
+    "width": 768
+  },
+  {
+    "port": 4311,
+    "route": "keranjang",
+    "broken": [],
+    "content": 753,
+    "title": "Keranjang kamu.",
+    "viewport": 753,
+    "width": 768
+  },
+  {
+    "port": 4311,
+    "route": "checkout",
+    "broken": [],
+    "content": 753,
+    "title": "Lengkapi ceritamu.",
+    "viewport": 753,
+    "width": 768
+  },
+  {
+    "port": 4312,
+    "route": "home",
+    "broken": [],
+    "content": 753,
+    "title": "Temukan hijab favoritmu.",
+    "viewport": 753,
+    "width": 768
+  },
+  {
+    "port": 4312,
+    "route": "produk",
+    "broken": [],
+    "content": 753,
+    "title": "Temukan pilihanmu.",
+    "viewport": 753,
+    "width": 768
+  },
+  {
+    "port": 4312,
+    "route": "produk/printed-viscose",
+    "broken": [],
+    "content": 753,
+    "title": "Pashmina Printed Viscose",
+    "viewport": 753,
+    "width": 768
+  },
+  {
+    "port": 4312,
+    "route": "keranjang",
+    "broken": [],
+    "content": 753,
+    "title": "Keranjang kamu.",
+    "viewport": 753,
+    "width": 768
+  },
+  {
+    "port": 4312,
+    "route": "checkout",
+    "broken": [],
+    "content": 753,
+    "title": "Lengkapi ceritamu.",
+    "viewport": 753,
+    "width": 768
+  },
+  {
+    "port": 4313,
+    "route": "home",
+    "broken": [],
+    "content": 753,
+    "title": "Warna lembut,\npesona kamu.",
+    "viewport": 753,
+    "width": 768
+  },
+  {
+    "port": 4313,
+    "route": "produk",
+    "broken": [],
+    "content": 753,
+    "title": "Temukan pilihanmu.",
+    "viewport": 753,
+    "width": 768
+  },
+  {
+    "port": 4313,
+    "route": "produk/printed-viscose",
+    "broken": [],
+    "content": 753,
+    "title": "Pashmina Printed Viscose",
+    "viewport": 753,
+    "width": 768
+  },
+  {
+    "port": 4313,
+    "route": "keranjang",
+    "broken": [],
+    "content": 753,
+    "title": "Keranjang kamu.",
+    "viewport": 753,
+    "width": 768
+  },
+  {
+    "port": 4313,
+    "route": "checkout",
+    "broken": [],
+    "content": 753,
+    "title": "Lengkapi ceritamu.",
+    "viewport": 753,
+    "width": 768
+  },
+  {
+    "port": 4311,
+    "route": "home",
+    "broken": [],
+    "content": 1425,
+    "title": "Elegan di\nsetiap langkah.",
+    "viewport": 1425,
+    "width": 1440
+  },
+  {
+    "port": 4311,
+    "route": "produk",
+    "broken": [],
+    "content": 1425,
+    "title": "Temukan pilihanmu.",
+    "viewport": 1425,
+    "width": 1440
+  },
+  {
+    "port": 4311,
+    "route": "produk/printed-viscose",
+    "broken": [],
+    "content": 1425,
+    "title": "Pashmina Printed Viscose",
+    "viewport": 1425,
+    "width": 1440
+  },
+  {
+    "port": 4311,
+    "route": "keranjang",
+    "broken": [],
+    "content": 1425,
+    "title": "Keranjang kamu.",
+    "viewport": 1425,
+    "width": 1440
+  },
+  {
+    "port": 4311,
+    "route": "checkout",
+    "broken": [],
+    "content": 1425,
+    "title": "Lengkapi ceritamu.",
+    "viewport": 1425,
+    "width": 1440
+  },
+  {
+    "port": 4312,
+    "route": "home",
+    "broken": [],
+    "content": 1425,
+    "title": "Temukan hijab favoritmu.",
+    "viewport": 1425,
+    "width": 1440
+  },
+  {
+    "port": 4312,
+    "route": "produk",
+    "broken": [],
+    "content": 1425,
+    "title": "Temukan pilihanmu.",
+    "viewport": 1425,
+    "width": 1440
+  },
+  {
+    "port": 4312,
+    "route": "produk/printed-viscose",
+    "broken": [],
+    "content": 1425,
+    "title": "Pashmina Printed Viscose",
+    "viewport": 1425,
+    "width": 1440
+  },
+  {
+    "port": 4312,
+    "route": "keranjang",
+    "broken": [],
+    "content": 1425,
+    "title": "Keranjang kamu.",
+    "viewport": 1425,
+    "width": 1440
+  },
+  {
+    "port": 4312,
+    "route": "checkout",
+    "broken": [],
+    "content": 1425,
+    "title": "Lengkapi ceritamu.",
+    "viewport": 1425,
+    "width": 1440
+  },
+  {
+    "port": 4313,
+    "route": "home",
+    "broken": [],
+    "content": 1425,
+    "title": "Warna lembut,\npesona kamu.",
+    "viewport": 1425,
+    "width": 1440
+  },
+  {
+    "port": 4313,
+    "route": "produk",
+    "broken": [],
+    "content": 1425,
+    "title": "Temukan pilihanmu.",
+    "viewport": 1425,
+    "width": 1440
+  },
+  {
+    "port": 4313,
+    "route": "produk/printed-viscose",
+    "broken": [],
+    "content": 1425,
+    "title": "Pashmina Printed Viscose",
+    "viewport": 1425,
+    "width": 1440
+  },
+  {
+    "port": 4313,
+    "route": "keranjang",
+    "broken": [],
+    "content": 1425,
+    "title": "Keranjang kamu.",
+    "viewport": 1425,
+    "width": 1440
+  },
+  {
+    "port": 4313,
+    "route": "checkout",
+    "broken": [],
+    "content": 1425,
+    "title": "Lengkapi ceritamu.",
+    "viewport": 1425,
+    "width": 1440
+  }
+]

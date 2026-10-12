@@ -1,0 +1,34 @@
+{
+  "productFolders": 20,
+  "products": 20,
+  "variants": 51,
+  "knownPrices": 16,
+  "confirmationPrices": [
+    "mukena-armani",
+    "mukena-segenggam-lily",
+    "mukena-rayon-viscose",
+    "hampers-soft-box"
+  ],
+  "folderMap": {
+    "4. Pashmina Airtech Ultrasoft": "airtech-ultrasoft",
+    "5. Gana Pashmina Oval Instan": "gana-instan",
+    "7. Paris Jadul": "paris-legend",
+    "8. Motif Tryspan": "motif-tryspan",
+    "10. Mukena Armani": "mukena-armani",
+    "11. Mukena Segenggam": "mukena-segenggam-lily",
+    "13. Pashmina Bamboo Spandex": "bamboo-spandex",
+    "14. Zoya Instan Bamboo": "zoya-instan",
+    "15. Bamboo Slip On": "bamboo-slip-on",
+    "17. Paris Japan": "paris-japan",
+    "18. Hawa Instan": "hawa-instan",
+    "19. Mukena Segenggam Polos": "mukena-segenggam-polos",
+    "20. Pashmina Modal Viscose": "modal-viscose",
+    "21. Pashmina Viscose Highlight": "viscose-highlight",
+    "22. Mukena Rayon Viscose": "mukena-rayon-viscose",
+    "23. Pashmina Printed Viscose": "printed-viscose",
+    "24. Viscose Gradasi": "viscose-gradasi",
+    "Aisha Khiban": "aisha-khiban",
+    "hampers soft box": "hampers-soft-box",
+    "Hayla Khiban": "hayla-khiban"
+  }
+}
